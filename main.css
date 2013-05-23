@@ -1,0 +1,51 @@
+
+body{
+	background:url(images/ex_fixed.gif) #D99D5E no-repeat center top;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#333333;
+	margin:0px;
+	padding:0px;
+}
+a {
+	color:#FFFFFF;
+	font-family: 'Francois One', sans-serif;
+	font-size: 15px;
+}
+
+
+#container{
+	width:850px;
+	margin:auto;
+}
+
+#container #header{
+	height:367px;
+	margin-bottom:8px;
+}
+
+#container #header #topRow{
+	padding:15px 0px;
+}
+
+#container #header #topRow #logo{
+	float:left;
+	padding-top:10px;
+}
+
+#container #header #topRow #topR8{
+	margin-left:200px;
+	font-size:13px;
+	font-weight:bold;
+}
+
+#container #header #menuRow{
+	width:230px;
+	text-align:right;
+}
+
+#container #content{
+	background:#D9AD7F no-repeat center top;
+	padding:6px;
+}
+
