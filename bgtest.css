@@ -1,4 +1,5 @@
 body {
-    background: url(images/rooftop.svg) no-repeat center center;
-    background-color: #333333;
+    background: url(images/rooftop.svg) no-repeat center center fixed;
+    background-color: #D99D5E;
+    background-size: 100% 50%;
 }
