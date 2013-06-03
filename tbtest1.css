@@ -1,0 +1,21 @@
+
+body {
+    background-color: #D99D5E;
+}
+div.container {
+    background-color: #FFF;
+}
+div.container p {
+    margin: 1em;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+a {
+   color: #663300;
+}
+a:link {color: #663300; }
+a:hover {color: #663300; }
+a:active {color: #663300; }
+a:visited {color: #663300; }
