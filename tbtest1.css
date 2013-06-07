@@ -2,12 +2,23 @@
 body {
     background-color: #D99D5E;
 }
+h1{
+    text-align: center;
+}
+h2{ 
+    margin-left: 20p;
+}
+img{
+    height: 250px;
+}
 div.container {
     background-color: #FFF;
+    width: 1300px;
 }
 div.container p {
     margin: 1em;
 }
+
 footer {
     text-align: center;
     margin-top: 20px;
